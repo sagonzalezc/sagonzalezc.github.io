@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: #6E3BE4;
 }
 .wrapper{
   background: #fff;
@@ -130,3 +130,8 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
